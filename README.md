@@ -20,7 +20,8 @@
 
 ### 源码目录
 
-![](https://upload-images.jianshu.io/upload_images/12890819-fd7669636904668c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://upload-images.jianshu.io/upload_images/12890819-398f46aed61ed4fc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 ### 源码构建，基于 Rollup 
 
@@ -64,7 +65,8 @@ Vue-Router 总图
 
 ### introduction
 
-![](https://upload-images.jianshu.io/upload_images/12890819-88fbb08912c8b562.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://upload-images.jianshu.io/upload_images/12890819-44b5d29b0bb6449d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 ### 路由注册
 
@@ -129,11 +131,11 @@ Vue-Router 总图
 
 笔者之所以采用思维导图的形式来记录所学内容，是因为思维导图更能反映知识体系与结构，更能使人形成完整的知识架构，知识一旦形成一个体系，就会容易理解和不易忘记。
 
-本文用到的 所有 **高清图片** 都已经放在 [github](https://github.com/biaochenxuying/vue-family-mindmap) 上，而且还有 **pdf 格式、markdown 语法、思维导图 的原文件**。
+文章的图片可能上传时会经过压缩，可能有点模糊，不过本文用到的 所有 **超清图片** 都已经放在 [github](https://github.com/biaochenxuying/vue-family-mindmap) 上，而且还有 **pdf 格式、markdown 语法、思维导图 的原文件**，自己可以根据思维导图原文件导出相应的超清图片。
 
 笔者文章常更地址：
 
-[1. 微信公众号](https://github.com/biaochenxuying/blog)
+[1. 微信公众号](https://mp.weixin.qq.com/s/xWnbH7QSqkBwpCRct1sbSA)
 [2. github](https://github.com/biaochenxuying/blog)
 [3. 全栈修炼](https://biaochenxuying.cn/)
 
