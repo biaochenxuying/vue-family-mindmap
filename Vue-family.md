@@ -1422,7 +1422,7 @@ plugins.forEach(plugin => plugin(this))；
 
 笔者文章常更地址：
 
-[1. 微信公众号](https://mp.weixin.qq.com/s/xWnbH7QSqkBwpCRct1sbSA)
+[1. 微信公众号](https://mp.weixin.qq.com/s/-gwh7z1xjpBQ4IzD1ZJd-g)
 [2. github](https://github.com/biaochenxuying/blog)
 [3. 全栈修炼](https://biaochenxuying.cn/)
 

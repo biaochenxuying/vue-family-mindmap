@@ -8,9 +8,9 @@
 
 [文章的图文结合版](https://biaochenxuying.cn/articleDetail?article_id=5cd7896c74289f3d47ed13ea)
 
-Vue-family.md ：[https://github.com/biaochenxuying/vue-family-mindmap/blob/master/Vue-family.md](https://github.com/biaochenxuying/vue-family-mindmap/blob/master/Vue-family.md)
+[Vue-family.md](https://github.com/biaochenxuying/vue-family-mindmap/blob/master/Vue-family.md)
 
-Vue-family.pdf ：[https://github.com/biaochenxuying/vue-family-mindmap/blob/master/Vue-family.md](https://github.com/biaochenxuying/vue-family-mindmap/blob/master/Vue-family.pdf)
+[Vue-family.pdf](https://github.com/biaochenxuying/vue-family-mindmap/blob/master/Vue-family.pdf)
 
 ## 2. Vue 全家桶
 
@@ -141,7 +141,7 @@ Vue-family.pdf ：[https://github.com/biaochenxuying/vue-family-mindmap/blob/mas
 
 笔者文章常更地址：
 
-[1. 微信公众号](https://mp.weixin.qq.com/s/xWnbH7QSqkBwpCRct1sbSA)
+[1. 微信公众号](https://mp.weixin.qq.com/s/-gwh7z1xjpBQ4IzD1ZJd-g)
 [2. github](https://github.com/biaochenxuying/blog)
 [3. 全栈修炼](https://biaochenxuying.cn/)
 
