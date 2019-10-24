@@ -150,10 +150,7 @@ Vuex 详细图：
 
 > **注意**：文章的图片可能上传时会经过压缩，可能有点模糊，不过本文用到的 所有 **超清图片** 都已经放在 [github](https://github.com/biaochenxuying/vue-family-mindmap) 上，而且还有 **pdf 格式、markdown 语法、思维导图 的原文件**，自己可以根据 **思维导图原文件** 导出相应的超清图片。
 
-笔者文章常更地址：
-
-[1. 微信公众号](https://mp.weixin.qq.com/s/-gwh7z1xjpBQ4IzD1ZJd-g)
-[2. github](https://github.com/biaochenxuying/blog)
+笔者文章常更地址：[github](https://github.com/biaochenxuying/blog) 
 
 ## 8. 最后
 
@@ -165,12 +162,3 @@ Vuex 详细图：
 
 1. [https://github.com/ustbhuangyi/vue-analysis](https://github.com/ustbhuangyi/vue-analysis)
 2. [https://github.com/HcySunYang/vue-design](https://github.com/HcySunYang/vue-design)
-
-
-![全栈修炼](https://upload-images.jianshu.io/upload_images/12890819-dc87d8e97b537488.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
-
-
-
-
